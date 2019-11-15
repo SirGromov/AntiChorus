@@ -1,0 +1,6 @@
+name: AntiChorus
+main: me.grom.antichorus.Main
+version: "1.0"
+author: SirGromov
+description: "Prevention of Chorus Teleportation!"
+website: https://vk.com/sirgromov
