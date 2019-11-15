@@ -1,4 +1,4 @@
-package com.grom.main;
+package me.grom.antichorus;
 
 import org.bukkit.ChatColor;
 import org.bukkit.event.EventHandler;
